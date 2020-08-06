@@ -18,7 +18,7 @@ function TeachItem() {
               <p>
                 Estudante apaixonado pelas tecnologias da informática.
                 <br /><br />
-                Venha aprender linguagens de programação e como solucionar problemas através delas.
+                Venha aprender tecnologias da informática, como solucionar problemas através delas e desenvolver suas próprias aplicações.
               </p>
 
               <footer>

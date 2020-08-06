@@ -5,6 +5,7 @@
 
 #search-teachers {
     margin-top: 3.2rem;
+    margin-right: 3.2rem;
 }
 
 #search-teachers label {
@@ -44,7 +45,7 @@
     position: absolute;
     left: 1.6rem;
     right: 1.6rem;
-    botton: 0;
+    bottom: 0;
 }
 
 #page-teacher-list main {
@@ -52,12 +53,16 @@
     width: 90%;
 }
 
+#page-teacher-list main {
+    margin: 3.2rem auto;
+    width: 90%;
+}
 
 @media (min-width: 700px) {
     #page-teacher-list {
         max-width: 100%;
     }
-
+    
     #search-teachers {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
