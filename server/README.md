@@ -15,3 +15,4 @@
 
 - [ ] Avaliar professores;
 - [ ] Listagem pela avaliação dos professores;
+- [ ] O Sistema não possibilita o cadastro de aulas no msm dia;
