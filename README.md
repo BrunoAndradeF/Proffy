@@ -27,7 +27,7 @@ O Proffy é uma plataforma que busca facilitar o contato entre pessoas interessa
 # :arrows_counterclockwise: Como executar?
 ```bash
 # Clone o repositório
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone https://github.com/Bruno-af/Proffy.git
 ```
 ### :open_file_folder: Executar a API
 
